@@ -9,5 +9,6 @@ O---(r_internal)---(r_external)---(r)---(R)
 The math begind the code can be found in these sources:
 
 https://ima.org.uk/8218/exploring-steiner-chains-mobius-transformations/
+
 https://www.youtube.com/watch?v=sG_6nlMZ8f4
 

@@ -1,7 +1,7 @@
 # steinerChains
 Complex analysis mini project - Octave
 
-This code generates a Steiner chain of "n" circles and uses a Möbius transformation to generate a mapping in the complex plane through a center of inversion and a set of rescaling parameters. Central circle is the unit circle.  
+This code generates a Steiner chain of "n" circles and uses a Möbius transformation to generate a mapping in the complex plane through a center of inversion and a set of scaling parameters. Central circle is the unit circle.  
 
 The arangement of the circles and their radius in the Steiner chain is:
 O---(r_internal)---(r_external)---(r)---(R)
